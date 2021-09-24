@@ -1,4 +1,7 @@
 # Hypothesis testing, determination of a promising tariff for a telecom company
+
+I advise you to view the work at this link: https://nbviewer.jupyter.org/github/GolovatskyN/Yandex.Practicum_projects/blob/main/Project_3._Testing_statistical_hypotheses/Project_3._Testing_statistical_hypotheses.ipynb
+
 ## Goal:
 Based on the data of the mobile operator's customers, analyze the behavior of customers and determine a promising tariff.
 ## Description:
