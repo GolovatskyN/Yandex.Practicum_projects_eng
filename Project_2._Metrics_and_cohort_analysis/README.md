@@ -12,4 +12,4 @@ Based on metrics, the most promising customer cohorts and traffic sources are id
 - NumPy;
 - Cohort analysis;
 - Product metrics;
-- - Unity-economy.
+- Unity-economy.
